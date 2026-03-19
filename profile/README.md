@@ -1,5 +1,7 @@
 # DRAINMOD — NC State University
 
+[**⬇ Download Latest Installer →**](https://github.com/drainmod-ncsu/drainmod/releases/latest)
+
 **DRAINMOD** is a process-based, field-scale hydrological simulation model developed 
 in the Department of Biological and Agricultural Engineering at North Carolina State 
 University. Originally published by Skaggs (1978), the model has been continuously 
@@ -19,7 +21,7 @@ management, wetland hydrology analysis, and water quality research.
 - Controlled drainage and subirrigation simulation
 - Wetland hydrology characterization
 - Extended modules for nitrogen cycling (DRAINMOD-N II), soil salinity (DRAINMOD-S), 
-  forest hydrology (DRAINMOD-Forest), and crop growth (DRAINMOD-DSSAT)
+  forest hydrology (DRAINMOD-Forest), phosphorus (DMPHOS) and crop growth (DRAINMOD-DSSAT)
 
 ## Scale of Application
 
@@ -32,7 +34,7 @@ of several thousand hectares across the United States and internationally.
 
 | Repository | Contents |
 |------------|----------|
-| [drainmod](https://github.com/drainmod/drainmod) | Installer releases and release notes |
+| [drainmod](https://github.com/drainmod/drainmod-releases) | Installer releases and release notes |
 | [drainmod-docs](https://github.com/drainmod/drainmod-docs) | User documentation and help files |
 | [drainmod-data](https://github.com/drainmod/drainmod-data) | Weather libraries, soil databases, sample projects |
 
@@ -48,6 +50,9 @@ of several thousand hectares across the United States and internationally.
 ---
 
 ## Citation
+
+Skaggs, R.W. (1978). *A Water Management Model for Shallow Water Table Soils*. 
+Report 134. Water Resources Research Institute, University of North Carolina, Raleigh, NC.
 
 Skaggs, R.W., Youssef, M.A., and Chescheir, G.M. (2012). DRAINMOD: Model use, 
 calibration, and validation. *Transactions of the ASABE*, 55(4), 1509–1522. 
