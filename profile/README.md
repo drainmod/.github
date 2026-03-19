@@ -1,6 +1,6 @@
 # DRAINMOD — NC State University
 
-[**⬇ Download Latest Installer →**](https://github.com/drainmod-ncsu/drainmod/releases/latest)
+[**⬇ Download Latest Installer →**](https://github.com/drainmod/drainmod-releases/releases/latest)
 
 **DRAINMOD** is a process-based, field-scale hydrological simulation model developed 
 in the Department of Biological and Agricultural Engineering at North Carolina State 
