@@ -34,7 +34,7 @@ of several thousand hectares across the United States and internationally.
 
 | Repository | Contents |
 |------------|----------|
-| [drainmod](https://github.com/drainmod/drainmod-releases) | Installer releases and release notes |
+| [drainmod-releases](https://github.com/drainmod/drainmod-releases) | Installer releases and release notes |
 | [drainmod-docs](https://github.com/drainmod/drainmod-docs) | User documentation and help files |
 | [drainmod-data](https://github.com/drainmod/drainmod-data) | Weather libraries, soil databases, sample projects |
 
